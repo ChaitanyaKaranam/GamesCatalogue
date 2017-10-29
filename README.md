@@ -36,3 +36,9 @@ React web application to view latest Games and Trailers
    .
 ```
 
+## Screenshot
+
+![Games Catalogue](https://raw.githubusercontent.com/ChaitanyaKaranam/GamesCatalogue/master/Screenshot/Games.PNG "Games Catalogue")
+
+
+
