@@ -55,7 +55,7 @@ class GameList extends Component{
 
     getEditorsChoice(choice){
         if(choice==='Y'){
-            return <span className="badge badge-warning">Editor's Choice</span>
+            return <span className="badge badge-warning">Editors Choice</span>
         }
     }
 
